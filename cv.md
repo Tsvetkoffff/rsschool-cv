@@ -22,7 +22,12 @@ Before getting to know front-end development, I was engaged in management. Howev
 
 ---
 ## Courses:
-
+* CS50 (Harvard basic course about computer science)
+* HTML Academy (HTML, CSS)
+* Full course JS + React on Udemy
+* Full course React + Redux on YouTube
+* Manuals and documentations JavaScript, React, Redux, etc.
 ---
 ## Languages:
-
+* Russian - Native
+* English - Intermediate (according to the online test at [EFset](https://www.efset.org/))
