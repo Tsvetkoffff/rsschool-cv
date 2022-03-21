@@ -8,7 +8,7 @@
 [**GitHub**](https://github.com/Tsvetkoffff)
 ---
 ## About myself:
-
+Before getting to know front-end development, I was engaged in management. However, I have always been interested in technology, so I worked as a manager in IT. A few years ago I started learning front-end development. This direction attracted me with the presence of a large number of high-quality training materials and the clear result of the work done. The development turned out to be so exciting for me, that I finally decided to change my career. In the process of self-education, I received basic knowledge of computer science, studied the main front-end technologies (html, css, js, react, redux). And finally, the course from rsschool turned out to be just luck. I am sure that upon completion I will have enough knowledge and experience to become useful to the IT market as a developer.
 ---
 ## Skills:
 
