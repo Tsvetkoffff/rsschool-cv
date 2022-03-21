@@ -31,6 +31,21 @@ Before getting to know front-end development, I was engaged in management. Howev
 
 ## Code example:
 
+KATA - Replace With Alphabet Position
+
+```
+function alphabetPosition(text) {
+  const alphabet = 'abcdefghijklmnopqrstuvwxyz'
+  let result = []
+  const textArr = text.replace(/[^a-zA-Z]+/g, "").toLowerCase().split('')
+  textArr.forEach(e => {
+  return result.push(alphabet.indexOf(e) + 1)
+})
+  text = result.join(' ')
+  return text;
+}
+```
+
 ---
 
 ## Courses:
