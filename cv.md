@@ -46,4 +46,5 @@ Before getting to know front-end development, I was engaged in management. Howev
 ## Languages:
 
 - Russian - Native
-- English - Intermediate (according to the online test at [EFset](https://www.efset.org/))
+- English - Intermediate (according to the online test at [EFset](https://www.efset.org/))\
+  ![](./assets/image/english_score.jpg)
