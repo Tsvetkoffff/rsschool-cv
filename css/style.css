@@ -1,0 +1,85 @@
+@import url('/css/normalize.css');
+
+body {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 16px;
+}
+
+p {
+  text-align: justify;
+}
+
+ul {
+  list-style-image: url("../assets/image/ellipse.png");
+  margin: 0;
+  padding: 0 18px;
+}
+
+li {
+  margin: 20px 0;
+}
+
+a {
+  padding: 5px;
+  color: #319792;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+a:active {
+  color: #005752;
+}
+
+a:hover {
+  border-bottom: #03a29a 1px solid;
+  padding-bottom: 4px;
+}
+
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
+
+.title {
+  font-size: 1.5em;
+}
+
+.header-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20%;
+}
+
+.header-name-title {
+  font-size: 1.5em;
+  margin: 0;
+  padding: 10px;
+}
+
+.header-photo {
+  width: 30%;
+  min-width: 90px;
+  padding: 10px;
+}
+
+.header-job-title {
+  font-size: 1.2em;
+  text-align: center;
+}
+
+.contacts-list {
+  font-size: 1em;
+  padding: 0;
+}
+
+.contacts-item {
+  display: flex;
+  align-items: baseline;
+}
+
+.contacts-item-title {
+  margin: 0;
+  padding: 5px;
+}
