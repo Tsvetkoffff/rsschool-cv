@@ -10,9 +10,13 @@
 
 **E-mail:** [tsvetkoffff@gmail.com](tsvetkoffff@gmail.com)\
 **Telegram:** [@tsvetkoffff](https://t.me/tsvetkoffff)\
+**Phone:** [+995 558-97-43-97](+995558974397)\
 [**LinkedIn**](https://www.linkedin.com/in/slava-tsvetkov-769b96252/)
 [**GitHub**](https://github.com/Tsvetkoffff)
-[**CodeWars**](https://www.codewars.com/users/rsschool_ced8d958720098e8/completed_solutions)
+[**CodeWars**](https://www.codewars.com/users/rsschool_ced8d958720098e8/completed_solutions)\
+\
+**Current permanent location: Georgia**
+
 
 ---
 
@@ -68,4 +72,5 @@ I am a junior front-end developer, I like to code, I like to learn new technolog
 
 ## A little about previous work experience...
 
-Since I am 33 years old and have 15 years of work experience, it is not relevant to the position of a developer, however, I consider it necessary to say this briefly. I have been working in the IT field since 2012, first in a regional system integrator, then in the largest network of data centers DataLine and later in the largest IT company in Russia, Rostelecom. I was involved in project management, service delivery and business development. We provide colocation, IaaS, PaaS and SaaS services such as databases, backups, kubernetes, devops, content delivery networks, information security and more.
+Since I am 33 years old and have 15 years of work experience, it is not relevant to the position of a developer, however, I consider it necessary to say this briefly. 
+I have been working in the IT field since 2012, first in a regional system integrator, then in the largest network of data centers DataLine and later in the largest IT company in Russia, Rostelecom. I was involved in project management, service delivery and business development. We provide colocation, IaaS, PaaS and SaaS services such as databases, backups, kubernetes, devops, content delivery networks, information security and more.
