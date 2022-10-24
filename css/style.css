@@ -1,5 +1,21 @@
 @import url('/css/normalize.css');
 
+/* Light mode */
+@media (prefers-color-scheme: light) {
+  html {
+      background: #f4f6f7;
+      color: #131313;
+  }
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  html {
+      background: #131313;
+      color: #cfdede;
+  }
+}
+
 body {
   font-family: 'IBM Plex Mono', monospace;
   font-size: 16px;
