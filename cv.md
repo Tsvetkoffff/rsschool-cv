@@ -46,10 +46,15 @@ I am a junior front-end developer, I like to code, I like to learn new technolog
 ## Projects:
 
 - **Shelter -** [Deploy](https://tsvetkoffff.github.io/shelter/pages/main/)/[Code](https://github.com/Tsvetkoffff/shelter/tree/gh-pages). In the process of working on the project, I studied and put into practice git, html, css, saas, semantic layout, adaptive, pixel perfect, bem, native javascript (implemented a burger menu, slider, pagination, modal windows)
+
 - **Irvis -** [Deploy](https://tsvetkoffff.github.io/irvis/)/[Code](https://github.com/Tsvetkoffff/irvis)- Work on the project was carried out in the course of passing the course on udemi, while skills were gained in working with javascript and related tools and technologies (AJAX, JSON, npm, Babel, Browserify, Webpack were additionally studied in the course at RSschool, Heroku, Firebase).
+
 - **Social network -** [Code](https://github.com/Tsvetkoffff/SocialNetwork). The project was written during the course on YouTube on React / Redux. The first React project in which I got acquainted with the technology and all the basic concepts (jsx, virtual dom, synthetic events, etc.) The project uses both functional and class components. Implemented work with redux to manage the global state.
+
 - **Hacker news -** [deploy](https://tsvetkoffff.github.io/newstories)/[Code](https://github.com/Tsvetkoffff/hacker-news/tree/main). The project is written in React, completely on functional components using hooks. Implemented custom hook useFetching. Working with API using axios. The application is implemented on the principle of a single page application using react router dom v5. For styling, css modules and the ant design ui component library were used.
+
 - **GitHub API repo`s searching app (In Progress) -** [Deploy](https://github-repo-info.vercel.app/)/[Code](https://github.com/Tsvetkoffff/github-repo-info). My first project using TypeScript. The Redux toolkit is used to manage the global state, RTK Query is used to work with the Github API. Styling with Tailwind CSS. Now in the process, in the project, for a start, I plan to implement a search for user repositories, user authorization, adding repositories to favorites.
+
 - **Frontend Dev CV Site on React (In Progress) -** [Deploy](https://cv-gamma-two.vercel.app/)/[Code](https://github.com/Tsvetkoffff/cv). This will be my personal page. Now I'm working on it, the design is ready, the layout process is underway.
 
 ---
